@@ -1,0 +1,168 @@
+.container {
+  position: relative;
+  text-align: center;
+}
+
+.text {
+  font-size: x-large;
+  font-weight: 200;
+  font-family: cursive;
+  color: #ce1a1a;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.navigation a {
+  text-decoration: none;
+  color: black;
+  text-align: center;
+  padding: 20px;
+  font-size: larger;
+  float: left;
+  display: block;
+}
+
+.navigation {
+  background-color: #eed8d8;
+  overflow: hidden;
+  position: sticky;
+  top: 0px;
+}
+
+.navigation a:hover {
+  color: blue;
+}
+
+.about {
+  padding-top: 20px;
+  padding-left: 300px;
+  padding-right: 300px;
+  text-align: center;
+  font-size: 40px;
+  font-family: cursive;
+  background-color: #e9d7d750;
+  margin: 1px;
+}
+
+.information {
+  text-align: justify;
+  font-size: large;
+  word-spacing: 2;
+}
+
+.image {
+  text-align: center;
+}
+
+.information2 {
+  font-size: large;
+  padding-top: 0px;
+  text-align: justify;
+  word-spacing: 2;
+  padding-bottom: 100px;
+}
+
+sec3RightMargin {
+  margin-left: 300px;
+}
+
+.bgBar {
+  background-color: #e6c8c8;
+  height: 30px;
+}
+
+.frBar {
+  background-color: #606060;
+  margin-right: 360px;
+  height: 30px;
+}
+
+.percent1Format {
+  color: black;
+  padding-left: 450px;
+  font-size: 20px;
+  text-align: center;
+}
+
+.frBar1 {
+  background-color: #606060;
+  margin-right: 200px;
+  height: 30px;
+}
+
+.frBar2 {
+  background-color: #606060;
+  margin-right: 100px;
+  height: 30px;
+}
+
+.header2Format {
+  font-size: 20px;
+}
+
+.progress {
+  font-size: 25px;
+  font-family: cursive;
+  background-color: #3f37b1;
+  color: #e6c8c8;
+  overflow: hidden;
+  height: 50px;
+  text-align: center;
+  padding-top: 15px;
+}
+
+.information3 {
+  background-color: #e9d7d750;
+  font-size: 30px;
+  font-family: cursive;
+  text-align: center;
+  padding-top: 7px;
+}
+
+.inputbox1 {
+  padding: 4px;
+}
+
+.inputbox2 {
+  padding: 4px;
+  width: 330px;
+}
+
+.button {
+  margin-top: 10px;
+  margin-left: 213px;
+  padding-left: 15px;
+  padding-right: 15px;
+  height: 40px;
+  background-color: black;
+  color: white;
+  border: none;
+  transition-duration: 0.2s;
+}
+
+.button:hover {
+  background-color: #d3b7b7;
+  cursor: pointer;
+}
+
+.footer{
+  background-color: #9e9898;
+  padding-top: 50px;
+  text-align: center;
+  font-size: x-large;
+  color: white;
+  height: 180px;
+}
+
+.footer:hover{
+  background-color: black;
+}
+
+.fab{
+  padding-top: 10px;
+  font-size: x-large;
+  color: white;
+  word-spacing: 50px;
+}

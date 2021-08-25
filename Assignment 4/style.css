@@ -1,0 +1,19 @@
+header{
+    text-align: center;
+    color: rgb(22, 19, 207);
+}
+nav a{
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-size:larger;
+    float: left;
+}
+nav{
+    background-color: #4a63d1;
+    overflow: hidden;
+}
+nav a:hover{
+    color: #afca15;
+}
